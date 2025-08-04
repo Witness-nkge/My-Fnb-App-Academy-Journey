@@ -21,10 +21,5 @@ This is a 2-page personal website built with **HTML**, **CSS**, and **JavaScript
 - CSS3  
 - JavaScript  
 - Git & GitHub  
-- [Netlify] *(deployment platform)*
+- [Netlify] *(deployment platform)
 
----
-
-
-
-> Built with heart and hustle ❤️ — Witness Nkge
