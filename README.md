@@ -17,9 +17,7 @@ This is a 2-page personal website built with **HTML**, **CSS**, and **JavaScript
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3  
+- HTML5 and CSS
 - JavaScript  
-- Git & GitHub  
-- [Netlify] *(deployment platform)
+- [Netlify] (deployment platform)
 
